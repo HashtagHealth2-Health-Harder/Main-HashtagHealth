@@ -1,0 +1,13 @@
+allergies = 'allergies' 'allergic' '#allergies' '#allergic'
+
+surgery = 'surgery'
+
+menstruation = 'period cramps' 'menstruation' 'aunt flo' 'time of the month' '#auntflo' 'monthly visitor' 'on the rag'
+
+mentalhealth = 'depression' 'anxiety' 'ptsd' 'i want to die' 'i want to kill myself' 'please kill me' 'not enough spoons' 'panic attack' 'no more spoons'
+
+general = '#ihaveacold' '#stayedhomefromwork' 'cough' '#cough' '#imsick' 'dry throat' 'sore throat' '#sorethroat' 'stomach flu' 'lost my voice' 'sore stomach' 'tummy ache' 'nasal congestion' 'runny nose' 'stuffy nose' 'stuffed nose' 'nausea' 'sick to my stomach' 'i have a cold' 'ive got a cold' 'dizziness' 'strep' 'strep throat' 'im sick' 'i am sick' 'congestion' 'sinus congestion'
+
+hangover = 'i'm hungover' 'im hungover' 'hungover' 'hangover' '#hungover' '#hangover' 'hair of the dog'
+
+headaches = 'headache' 'headaches' 'migrane' 'migranes'
